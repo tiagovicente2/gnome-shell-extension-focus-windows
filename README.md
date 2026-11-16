@@ -12,7 +12,7 @@ There are no settings or background services.
 
 ## Installation from source
 
-Requirements: GNOME Shell 45–50, `gnome-extensions`, `make`, and Python 3.
+Requirements: GNOME Shell 45–51, `gnome-extensions`, `make`, and Python 3.
 
 ```bash
 make package

@@ -2,9 +2,9 @@
   "uuid": "focus-windows@tiagovicente2.github.com",
   "name": "Focus Windows",
   "description": "Focus windows that GNOME would otherwise leave in the background with a 'Window is ready' notification, including windows marked as urgent.",
-  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "shell-version": ["45", "46", "47", "48", "49", "50", "51"],
   "url": "https://github.com/tiagovicente2/gnome-shell-extension-focus-windows",
   "license": "GPL-3.0-or-later",
-  "version": 1,
-  "version-name": "1.0.0"
+  "version": 2,
+  "version-name": "1.0.1"
 }
